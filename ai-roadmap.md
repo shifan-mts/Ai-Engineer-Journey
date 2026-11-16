@@ -16,7 +16,7 @@ milestones:
   title: Built a basic agent and LangGraph workflows
 - day: 30
   title: Built and deployed a small RAG-enabled AI application
-start_date: 2026-11-11
+start_date: 2026-11-14
 title: AI Engineering --- 30-Day Build-While-Learning Roadmap
 version: 1
 ---
